@@ -1,0 +1,52 @@
+{
+  "dataImages": [
+    {
+      "bgImage": "images/background.jpg",
+      "iconTrip": "images/icon_rocket.png",
+      "logo": "images/logo.png",
+      "imageRocket": "images/rocket.png",
+      "title": "Visa to the Moon",
+      "subtitle": "Your trip start here",
+      "headerImage": "images/rock.jpg",
+      "footer": "Explore the surface",
+      "footerImage": "images/background_moon.png",
+      "hash": "#moontrip #visamoon #moontickets",
+      "button": "Start your trip >",
+      "linkprev": "",
+      "linknext": "next",
+      "easeView": "view ease"
+    },
+    {
+      "bgImage": "https://images.unsplash.com/photo-1447433516455-abac93050eab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+      "iconTrip": "images/icon_rocket.png",
+      "logo": "images/logo.png",
+      "imageRocket": "https://images.unsplash.com/photo-1547469447-4afec158715b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80",
+      "title": "A unique adventure",
+      "subtitle": "Experience the moon",
+      "headerImage": "https://images.unsplash.com/photo-1568051864106-6c9b883e24a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "footer": "Explore the surface",
+      "footerImage": "images/background_moon.png",
+      "hash": "#moontrip #visamoon #moontickets",
+      "button": "Start your trip >",
+      "linkprev": "prev",
+      "linknext": "next",
+      "easeView": "view ease"
+    },
+    {
+      "bgImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80",
+      "iconTrip": "images/icon_rocket.png",
+      "logo": "images/logo.png",
+      "imageRocket": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80",
+      "title": "Another perspective",
+      "subtitle": "Amaze yourself!",
+      "headerImage": "https://images.unsplash.com/photo-1570810891578-c1d3c74417ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "footer": "Explore the surface",
+      "footerImage": "images/background_moon.png",
+      "hash": "#moontrip #visamoon #earthlights",
+      "button": "Start your trip >",
+      "linkprev": "prev",
+      "linknext": "",
+      "easeView": "view ease"
+    }
+  ]
+}
